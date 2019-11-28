@@ -16,7 +16,7 @@ import org.springframework.web.servlet.view.AbstractView;
 import com.iu.s4.model.FilesVO;
 import com.iu.s4.model.QnaFilesVO;
 
-@Component
+
 public class FileDown extends AbstractView{
 
 	@Override

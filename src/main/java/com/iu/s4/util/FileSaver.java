@@ -12,7 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.iu.s4.model.MemberVO;
 
-@Component
+
 public class FileSaver {
 	
 	
